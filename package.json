@@ -1,0 +1,27 @@
+{
+  "name": "tunts-rocks-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamillalobo/tunts-rocks-challenge.git"
+  },
+  "keywords": [
+    "spacerocks"
+  ],
+  "author": "Jamilla Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamillalobo/tunts-rocks-challenge/issues"
+  },
+  "homepage": "https://github.com/jamillalobo/tunts-rocks-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^131.0.0",
+    "nodemon": "^3.0.3"
+  }
+}
